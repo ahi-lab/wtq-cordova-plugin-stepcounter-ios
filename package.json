@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "name": "cordova-plugin-stepcounter-ios",
+    "cordova_name": "StepCounter iOS",
+    "description": "Retrieve step counter information on iOS",
+    "license": "MIT",
+    "keywords": [
+        "ios",
+        "stepcounter"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=4.0.0"
+        }
+    ]
+}
